@@ -1,1 +1,8 @@
-var vel =60.5
+var vel =100
+if(vel>=100){
+    console.log(`mutado`)
+}
+else{
+    console.log(`não mutado`)
+}
+
